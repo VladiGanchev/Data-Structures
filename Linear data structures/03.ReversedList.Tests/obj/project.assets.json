@@ -4762,11 +4762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Empty\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
       "projectName": "03.ReversedList.Tests",
-      "projectPath": "C:\\Users\\user\\Desktop\\Empty\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Empty\\03.ReversedList.Tests\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\03.ReversedList.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4788,8 +4788,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\Empty\\03.ReversedList\\03.ReversedList.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Empty\\03.ReversedList\\03.ReversedList.csproj"
+            "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\03.ReversedList\\03.ReversedList.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\03.ReversedList\\03.ReversedList.csproj"
             }
           }
         }

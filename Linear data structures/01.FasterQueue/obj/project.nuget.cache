@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNwo65MpYxuTjEl5sWU+KbjVSivGkmo7xkmWj2KGDwKd5wyZbrv/CW2D01y7iyGn5qTvyGCmjg5TfWRNOS2i+g==",
+  "dgSpecHash": "cfMIH30G7hoVbWO92pV+1SeQjMBhoMCFNEdLPJ1KheZs1hFc02O8A12QghXzDGgk0x/U4fLA+KzZ6fwQVDTIFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Empty\\01.FasterQueue\\01.FasterQueue.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\01.FasterQueue\\01.FasterQueue.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Empty\\04.BP.Tests\\04.BP.Tests.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BP.Tests\\04.BP.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Empty\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
+    "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Empty\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
         "projectName": "04.BalancedParentheses",
-        "projectPath": "C:\\Users\\user\\Desktop\\Empty\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Empty\\04.BalancedParentheses\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BalancedParentheses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Empty\\04.BP.Tests\\04.BP.Tests.csproj": {
+    "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BP.Tests\\04.BP.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Empty\\04.BP.Tests\\04.BP.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BP.Tests\\04.BP.Tests.csproj",
         "projectName": "04.BP.Tests",
-        "projectPath": "C:\\Users\\user\\Desktop\\Empty\\04.BP.Tests\\04.BP.Tests.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BP.Tests\\04.BP.Tests.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Empty\\04.BP.Tests\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BP.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Empty\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Empty\\04.BalancedParentheses\\04.BalancedParentheses.csproj"
+              "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BalancedParentheses\\04.BalancedParentheses.csproj"
               }
             }
           }

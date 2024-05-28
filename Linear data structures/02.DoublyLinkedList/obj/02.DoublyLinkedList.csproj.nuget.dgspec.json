@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Empty\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Empty\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {
+    "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Empty\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
         "projectName": "02.DoublyLinkedList",
-        "projectPath": "C:\\Users\\user\\Desktop\\Empty\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Empty\\02.DoublyLinkedList\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\02.DoublyLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

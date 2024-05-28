@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mP6QxonRW+1u9QEUnlUzFMSe7Zxv8mtWOlV/2XvN6MeB4Zm+q6bkSxGS/pAOc4uKvXpsADGD9anCz0BtjDgu6Q==",
+  "dgSpecHash": "6YgM2P/45QTVDCFd/+3Tp+yhp6NSnPgb3Ud5OlR+buuIQTddhnmWDTaOMuO2jClugV5X/jHp5FirucfOIT/xAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Empty\\03.ReversedList\\03.ReversedList.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\03.ReversedList\\03.ReversedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

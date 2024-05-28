@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AAIEeEzTefWu3w7SHFhGmcJ5AyB9UjAp6CKPh6QXlgfTqORAFTckIfbTV09PnSTIQzatngpshEZokpeNmcKfEw==",
+  "dgSpecHash": "43ybyYKGBEB30PanxHCQhixVksg2X1atTx0eN11DlQTg7sLwYW8fLD9wolXhnYwkSxZLlRQY2rEIjwYii88BNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Empty\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Data-Structures\\Linear data structures\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

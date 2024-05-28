@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).AssemblyInfo.cs
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\bin\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).exe
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\bin\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).deps.json
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\bin\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).runtimeconfig.json
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\bin\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).dll
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\bin\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).pdb
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).dll
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\refint\Trees Representation and Traversal (BFS, DFS).dll
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).pdb
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\Trees Representation and Traversal (BFS, DFS).genruntimeconfig.cache
+C:\Users\user\source\repos\Trees Representation and Traversal (BFS, DFS)\Trees Representation and Traversal (BFS, DFS)\obj\Debug\net6.0\ref\Trees Representation and Traversal (BFS, DFS).dll

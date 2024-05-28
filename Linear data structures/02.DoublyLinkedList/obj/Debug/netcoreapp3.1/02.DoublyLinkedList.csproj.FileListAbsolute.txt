@@ -7,3 +7,12 @@ C:\Users\user\Desktop\Empty\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.Doubl
 C:\Users\user\Desktop\Empty\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Empty\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
 C:\Users\user\Desktop\Empty\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.deps.json
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfo.cs
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Users\user\source\repos\Data-Structures\Linear data structures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb

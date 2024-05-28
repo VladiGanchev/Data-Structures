@@ -7,3 +7,12 @@ C:\Users\user\Desktop\Empty\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.Ba
 C:\Users\user\Desktop\Empty\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Empty\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
 C:\Users\user\Desktop\Empty\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.deps.json
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfo.cs
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Users\user\source\repos\Data-Structures\Linear data structures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb

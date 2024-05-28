@@ -7,3 +7,12 @@ C:\Users\user\Desktop\Empty\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueu
 C:\Users\user\Desktop\Empty\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Empty\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
 C:\Users\user\Desktop\Empty\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\user\source\repos\Data-Structures\Linear data structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb
