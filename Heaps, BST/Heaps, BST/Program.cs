@@ -1,4 +1,5 @@
 ﻿using Heaps__BST;
+using Heaps__BST.Heaps__BST;
 
 public class Program
 {
@@ -14,6 +15,8 @@ public class Program
 
         BinaryTree<int> tree = new BinaryTree<int>(root);
 
+        Console.WriteLine("Binary Tree:");
+        Console.WriteLine();
         Console.WriteLine(tree.DFSPreOrder(tree.Root, 0));
         Console.WriteLine();
         Console.WriteLine();
@@ -28,7 +31,9 @@ public class Program
 
         Console.WriteLine();
         Console.WriteLine();
+        Console.WriteLine("Heap:");
         Console.WriteLine();
+
 
         var integerHeap = new Heap<int>();
         var elements = new List<int>() { 15, 6, 9, 5, 25, 8, 17, 16 };
@@ -39,5 +44,26 @@ public class Program
         }
 
         Console.WriteLine(integerHeap.DFSInOrder(0,0));
+
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine("Priority queue:");
+        Console.WriteLine();
+
+
+        var queue = new PriorityQueue<int>();
+        elements = new List<int>() {15, 25, 6, 9, 5, 8, 17, 16 };
+
+        foreach (var item in elements)
+        {
+            queue.Add(item);
+        }
+
+
+        while (queue.Size > 0)
+        {
+            Console.WriteLine($"Max element: {queue.Dequeue()}");
+        }
+
     }
 }
